@@ -27,7 +27,7 @@
 
 > 🎉 100% Free. No ads. No restrictions. Just beautiful, moving wallpapers.
 
-An open-source, free live wallpaper application for Windows — based on the powerful [Lively Wallpaper](https://github.com/rocksdanister/lively)
+An open-source, free live wallpaper application for Windows — based on the powerful Lively Wallpaper by creator rocksdanister
 ---
 
 ## ✨ Features
