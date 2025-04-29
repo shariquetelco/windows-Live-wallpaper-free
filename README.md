@@ -46,15 +46,17 @@ An open-source, free live wallpaper application for Windows — based on the pow
 3. 🎨 Set your first live wallpaper!
 
 ## 🛠 Setup Instructions
-Download the installer or zip file.
-Install or extract it.
-Launch the app and enjoy dynamic wallpapers!
-
 📥 DOWNLOAD and SETUP from here:
-[Screensaver  4.08 KB Zip](https://github.com/rocksdanister/lively/releases/download/v2.0.8.8/lively_screen_saver.zip)
-[Setup.exe 299 MB](https://github.com/rocksdanister/lively/releases/download/v2.0.8.8/lively_setup_x86_full_v2108.exe)
-[Source Code Zip](https://github.com/rocksdanister/lively/archive/refs/tags/v2.0.8.8.zip)
-[Source Code TAR.GZ](https://github.com/rocksdanister/lively/archive/refs/tags/v2.0.8.8.tar.gz)
+
+1. Download the installer or zip file below link.
+
+- [Screensaver  4.08 KB Zip](https://github.com/rocksdanister/lively/releases/download/v2.0.8.8/lively_screen_saver.zip)
+- [Setup.exe 299 MB](https://github.com/rocksdanister/lively/releases/download/v2.0.8.8/lively_setup_x86_full_v2108.exe)
+- [Source Code Zip](https://github.com/rocksdanister/lively/archive/refs/tags/v2.0.8.8.zip)
+- [Source Code TAR.GZ](https://github.com/rocksdanister/lively/archive/refs/tags/v2.0.8.8.tar.gz)
+
+2. Install or extract it.
+3. Launch the app and enjoy dynamic wallpapers!
 ---
 
 ## 🔧 Screenshots
